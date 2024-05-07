@@ -1,6 +1,5 @@
 ### Hi, my name is Gerónimo I'm from Argentina and I'm 24 yo.
-### I'm computer science student, currently studying the career Analyst in Information and Communication Technologies at the
-### UNLP of La Plata, Buenos Aires, Argentina.
+### I'm computer science student, currently studying the career Analyst in Information and Communication Technologies at the UNLP of La Plata, Buenos Aires, Argentina.
 
 
 <!--
