@@ -8,14 +8,17 @@ I'm passionate about software development and always eager to learn and improve 
 ## 🛠️ Programming Languages  
 - **Java**  
 - **Python**  
-- **PHP**  
+- **PHP**
+- **Ruby**
 - **JavaScript**  
-- **SQL**  
+- **SQL**
+
 
 ## 🧰 Frameworks and Libraries  
 - **Spring**  
 - **Django**  
-- **Symfony**  
+- **Symfony**
+- **Ruby on Rails**  
 - **React**  
 
 ## 🗄️ Databases  
