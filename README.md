@@ -1,18 +1,40 @@
-### Hi, my name is Gerónimo I'm from Argentina and I'm 24 yo.
-### I'm computer science student, currently studying the career Analyst in Information and Communication Technologies at the UNLP of La Plata, Buenos Aires, Argentina.
+# 👋 Hi! I'm Gerónimo  
 
+I'm from Argentina, 24 years old, and a Computer Science student. I'm currently pursuing a degree in **Analyst in Information and Communication Technologies** at UNLP, La Plata, Buenos Aires, Argentina.  
 
-<!--
-**GeronimoErrante/GeronimoErrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+I'm passionate about software development and always eager to learn and improve my skills. Throughout my studies, I have gained experience with various technologies, tools, and methodologies.  
 
-Here are some ideas to get you started:
+## 🛠️ Programming Languages  
+- **Java**  
+- **Python**  
+- **PHP**  
+- **JavaScript**  
+- **SQL**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Frameworks and Libraries  
+- **Spring**  
+- **Django**  
+- **Symfony**  
+- **React**  
+
+## 🗄️ Databases  
+### Relational  
+- **SQL**  
+- **MySQL**  
+- **PostgreSQL**  
+
+### Non-Relational  
+- **MongoDB**  
+
+## 🎓 Some of my completed college courses- 
+- **Database Design**  
+- **Software Engineering 2**  
+- **Object-Oriented Programming 2**  
+- **Languages Seminar: Python**  
+- **Concurrent Programming**  
+- **Networks and Communications**  
+- **Introduction to Operating Systems**  
+- **Quality in Software Systems**  
+- **Agile Methods for Web Applications**  
+ 
