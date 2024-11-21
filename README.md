@@ -30,7 +30,7 @@ I'm passionate about software development and always eager to learn and improve 
 ### Non-Relational  
 - **MongoDB**  
 
-## 🎓 Some of my completed college courses- 
+## 🎓 Some of my completed college courses 
 - **Database Design**  
 - **Software Engineering 2**  
 - **Object-Oriented Programming 2**  
